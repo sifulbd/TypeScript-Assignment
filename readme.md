@@ -1,4 +1,4 @@
-#Interfaces vs Types in TypeScript
+# Interfaces vs Types in TypeScript
 
 TypeScript degine two ways to deeifne the data. one if inerface and another is type. though it seems it works same but there is slighly deiffernt purpose.
 
