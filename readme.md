@@ -4,9 +4,9 @@ TypeScript degine two ways to deeifne the data. one if inerface and another is t
 
 first of all strucrure and defination. `type` structure with object shape and primives and unions where `interface` only work with object shape. In `interface` there is you can use `extends` keywor on the other hand type have `&` to intersection the operators.
 
-### example of types
+### Example of types
 
-<pre> ```
+<pre> 
     type User = {
         name: string;
         email: string;
@@ -17,4 +17,6 @@ first of all strucrure and defination. `type` structure with object shape and pr
     };
 
     type ID = string | number;
-``` </pre>
+</pre>
+
+### Example of Interface
